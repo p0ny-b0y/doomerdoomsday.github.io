@@ -1,0 +1,10 @@
+US Gramm-Leach-Bliley Act
+Side-Channel Attack
+MQTT
+ZigBee
+LPWAN
+NB-IoT
+Malvertising
+Clickjacking
+Watering hole
+Agent Smith

@@ -1,0 +1,14 @@
+title: "Qolt's Cheat n Yeet Sheets"
+description: "A totally correct and not wrong at all reference site."
+baseurl: ""
+url: "https://QOLT45EXE.github.io"
+
+collections:
+  cheatsheets:
+    output: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+markdown: kramdown
